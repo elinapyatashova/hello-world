@@ -1,2 +1,4 @@
 # hello-world
-First git-hub project
+
+Hi guys !
+I am just a new developer in this world 
